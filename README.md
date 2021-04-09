@@ -18,7 +18,11 @@ $ git clone git@github.com:K-out-A/SegumetationTask_of_RiceBlast.git
 test.ipynbを開き、上から順にセルを実行する。
 
 # 実行結果
-imgsファイルにある画像を読み込ませると推論が始まります。
+imgsフォルダにある画像を読み込ませると推論が始まります。
+
+出力結果は黒、緑、赤でセグメンテーションされます。
+
+順に背景、葉、罹患部位となります。
 
 以下が➀原画像と➁出力結果です。
 
