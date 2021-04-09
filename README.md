@@ -22,10 +22,10 @@ imgsファイルにある画像を読み込ませると推論が始まります�
 
 以下が➀原画像と➁出力結果です。
 
-original-img
+①original-img
 
 <img src="https://github.com/K-out-A/SegumetationTask_of_RiceBlast/blob/main/imgs/DSCF1481.png" width="480">
 
-result-img
+②result-img
 
 <img src="https://github.com/K-out-A/SegumetationTask_of_RiceBlast/blob/main/results/DSCF1481_result.png" width="480">
